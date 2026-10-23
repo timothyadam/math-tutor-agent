@@ -6,7 +6,11 @@ authors = [
     { name = "timothyadma", email = "wangxindyouxiang@163.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "anthropic>=2.1.0",
+    "langgraph>=1.2.16",
+    "pydantic>=2.14.1",
+]
 
 [project.scripts]
 math-tutor-agent = "math_tutor_agent:main"

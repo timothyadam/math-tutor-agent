@@ -21,3 +21,8 @@ logs/
 
 # docker
 *.sqlite
+
+# build
+build/
+dist/
+*.egg-info/
