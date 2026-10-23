@@ -23,7 +23,7 @@ math-tutor-agent/
 │   │   └── init_data.py    # 初始化人教版1-6年级目录、样例题目
 │   ├── schema/             # Pydantic 请求响应模型
 │   └── service/
-├── tests/                  # 单元测试！面试加分项：检索测试、相似度测试、agent路由测试
+├── tests/                  # 单元测试 ：检索测试、相似度测试、agent路由测试
 │   ├── test_similarity.py
 │   ├── test_retriever.py
 │   └── test_agent_graph.py
