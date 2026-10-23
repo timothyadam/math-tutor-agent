@@ -1,4 +1,6 @@
-text ，
+## 项目结构
+
+```text
 math-tutor-agent/
 ├── README.md               # 最重要！项目介绍、架构图、演示、技术选型、取舍思考
 ├── docs/
@@ -30,3 +32,4 @@ math-tutor-agent/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+```
