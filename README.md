@@ -7,7 +7,7 @@ math-tutor-agent/
 │   ├── architecture.md     # 架构说明、数据流图
 │   ├── database.md         # 建表SQL、表结构设计、ER图
 │   └── demo.md             # 对话样例
-├── app/
+├── src/math_tutor_agent/
 │   ├── main.py             # FastAPI 入口
 │   ├── agent/
 │   │   ├── state.py        # LangGraph State定义（年级/版本/单元/课时）
